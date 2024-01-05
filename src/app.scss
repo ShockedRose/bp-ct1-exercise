@@ -1,11 +1,10 @@
 .app {
-  max-width: 1024px;
-  margin: auto;
+	max-width: 1024px;
+	margin: auto;
 
-  &__content {
-    width: 80%;
-    margin: 0 auto;
-    margin-top: 5rem; 
-  }
-
+	&__content {
+		width: 80%;
+		margin: 0 auto;
+		margin-top: 5rem;
+	}
 }
