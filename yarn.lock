@@ -4554,6 +4554,11 @@ ws@^8.13.0:
   resolved "https://registry.npmjs.org/ws/-/ws-8.13.0.tgz"
   integrity sha512-x9vcZYTrFPC7aSIbj7sRCYo7L/Xb8Iy+pW0ng0wt2vCJv7M9HOMy0UoN3rr+IFC7hb7vXoqS+P9ktyLLLhO+LA==
 
+"xlsx@https://cdn.sheetjs.com/xlsx-0.20.1/xlsx-0.20.1.tgz":
+  version "0.20.1"
+  resolved "https://cdn.sheetjs.com/xlsx-0.20.1/xlsx-0.20.1.tgz"
+  integrity sha512-hA7SYmn/H3cJ1VGi7kmSKxbEXCEn5UVJlwYFSFXhLe54wPUvW+80TmR5l+TZh4nJCw8G/e0SuZUfvqlTIh40hw==
+
 xml-name-validator@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/xml-name-validator/-/xml-name-validator-4.0.0.tgz"
